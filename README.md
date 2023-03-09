@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Pranay Patil.</h1>
 <h3 align="center">I am an Enthusiastic and Driven Software Developer.</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently enhancing my  **Problem Solving Skills.**
 
 - 💬 Ask me about **Java, Spring Boot, Angular, Python, Django**
 
