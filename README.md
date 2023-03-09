@@ -1,6 +1,3 @@
-<!-- 
-
-
 
 
 
@@ -30,5 +27,5 @@
 
 
 
-<!-- ![Github Stat](https://github-readme-stats.vercel.app/api?username=Pranay39&theme=radical) -->
+<!-- ![Github Stat](https://github-readme-stats.vercel.app/api?username=Pranay39&theme=radical)
 
