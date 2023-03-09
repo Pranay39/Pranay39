@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
  <img src= "https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="python"  height="40"/>
- <img src= "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.sv" height="40"/>
+<!--  <img src= "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.sv" height="40"/> -->
 <img src = "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"  height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django"  width = "40" height="40"/>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
