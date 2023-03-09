@@ -28,6 +28,7 @@
   <a href="https://www.oracle.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postgreSQL" height="40"/>
 
  
 
@@ -44,4 +45,4 @@
 <!-- ![Github Stat](https://github-readme-stats.vercel.app/api?username=Pranay39&theme=radical)
 
 
- <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" height="40"/>
+
