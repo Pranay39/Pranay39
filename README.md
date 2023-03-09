@@ -37,6 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranay39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay39" height="30" width="40" /></a>
+ <img src="https://camo.githubusercontent.com/9cf57c5f06336ff142f2ff361febd83f56a473f21d07298dc0e750c917ecdbde/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f706f7274666f6c696f2e706e67" height="40" />
 </p>
 
 
