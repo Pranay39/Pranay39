@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi there 👋, I'm Pranay Patil.</h1>
-<h3 align="center">I am an enthusiastic and driven aspiring Software Developer.</h3>
+<h3 align="center">I am an Enthusiastic and Driven Software Developer.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **Java, Python, Django**
+- 💬 Ask me about **Java, Spring Boot, Angular, Python, Django**
 
 - 📫 How to reach me <a href="https://3pranay@gmail.com" target="blank">Pranay Patil</a>
 
